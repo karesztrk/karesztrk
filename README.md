@@ -1,13 +1,19 @@
 <h1 align="center">Hi 👋, I'm Károly</h1>
 <h3 align="center">A passiate Full-stack developer</h3>
 
-- 👨‍💻 All of my projects are available at [https://karolytorok.netlify.app/](https://karolytorok.netlify.app/)
+<p align="center">
+  <ul>
+    <li> 👨‍💻 All of my projects are available at [https://karolytorok.netlify.app/](https://karolytorok.netlify.app/)</li>
 
-- 📫 How to reach me **torok.karoly.krisztian@gmail.com**
+<li> 📫 How to reach me **torok.karoly.krisztian@gmail.com**</li>
 
-- 📄 Know about my experiences [https://karolytorok.netlify.app/doc/Karoly_Torok.pdf](https://karolytorok.netlify.app/doc/Karoly_Torok.pdf)
+<li> 📄 Know about my experiences [https://karolytorok.netlify.app/doc/Karoly_Torok.pdf](https://karolytorok.netlify.app/doc/Karoly_Torok.pdf)</li>
 
-- ⚡ Fun fact **I love to bake delicious Breads**
+<li> ⚡ Fun fact **I love to bake delicious Breads**</li>
+  </ul>
+</p>
+
+<hr />
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -15,7 +21,14 @@
   </a>
 </p>
 
----
-![](https://github-readme-stats.vercel.app/api?username=karesztrk&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=karesztrk&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=karesztrk&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<hr />
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=karesztrk&theme=radical&hide_border=false&include_all_commits=false&count_private=false" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karesztrk&theme=radical&hide_border=false)" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karesztrk&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)" />
+</p>
