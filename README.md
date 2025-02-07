@@ -3,11 +3,11 @@
 
 <p align="center">
   <ul>
-    <li> 👨‍💻 All of my projects are available at [https://karolytorok.netlify.app/](https://karolytorok.netlify.app/)</li>
+    <li> 👨‍💻 All of my projects are available at https://karolytorok.netlify.app/about/#projects</li>
 
 <li> 📫 How to reach me **torok.karoly.krisztian@gmail.com**</li>
 
-<li> 📄 Know about my experiences [https://karolytorok.netlify.app/doc/Karoly_Torok.pdf](https://karolytorok.netlify.app/doc/Karoly_Torok.pdf)</li>
+<li> 📄 Know about my experiences https://karolytorok.netlify.app/doc/Karoly_Torok.pdf</li>
 
 <li> ⚡ Fun fact **I love to bake delicious Breads**</li>
   </ul>
